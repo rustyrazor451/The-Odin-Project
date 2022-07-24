@@ -1,0 +1,23 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+img {
+    width: 600;
+    height: auto;
+}
+
+body {
+    text-align: center;
+    width: 100%;
+    background-color: white;
+    border-radius: 1%;
+    margin: 0;
+
+}
+
+ul {
+    list-style-type: none;
+}
